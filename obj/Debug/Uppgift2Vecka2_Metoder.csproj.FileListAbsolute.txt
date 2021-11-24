@@ -1,0 +1,7 @@
+C:\Users\awikl\Desktop\Lexicon\C#\Övningar vecka 2\Uppgift2Vecka2_Metoder\Uppgift2Vecka2_Metoder\bin\Debug\Uppgift2Vecka2_Metoder.exe.config
+C:\Users\awikl\Desktop\Lexicon\C#\Övningar vecka 2\Uppgift2Vecka2_Metoder\Uppgift2Vecka2_Metoder\bin\Debug\Uppgift2Vecka2_Metoder.exe
+C:\Users\awikl\Desktop\Lexicon\C#\Övningar vecka 2\Uppgift2Vecka2_Metoder\Uppgift2Vecka2_Metoder\bin\Debug\Uppgift2Vecka2_Metoder.pdb
+C:\Users\awikl\Desktop\Lexicon\C#\Övningar vecka 2\Uppgift2Vecka2_Metoder\Uppgift2Vecka2_Metoder\obj\Debug\Uppgift2Vecka2_Metoder.csproj.CoreCompileInputs.cache
+C:\Users\awikl\Desktop\Lexicon\C#\Övningar vecka 2\Uppgift2Vecka2_Metoder\Uppgift2Vecka2_Metoder\obj\Debug\Uppgift2Vecka2_Metoder.exe
+C:\Users\awikl\Desktop\Lexicon\C#\Övningar vecka 2\Uppgift2Vecka2_Metoder\Uppgift2Vecka2_Metoder\obj\Debug\Uppgift2Vecka2_Metoder.pdb
+C:\Users\awikl\Desktop\Lexicon\C#\Övningar vecka 2\Uppgift2Vecka2_Metoder\Uppgift2Vecka2_Metoder\obj\Debug\Uppgift2Vecka2_Metoder.csproj.AssemblyReference.cache
